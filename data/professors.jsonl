@@ -1,82 +1,82 @@
-{"fname": "Khaled", "lname": "Alzoubi", "email": "alzoubkh@lewisu.edu", "dept": "Computer Science", "num_ratings": 5, "overall_rating": "3.2"}
-{"fname": "Jaeik", "lname": "Cho", "email": "jcho1@lewisu.edu", "dept": "Computer Science", "num_ratings": 1, "overall_rating": "5.0"}
-{"fname": "Dana", "lname": "Dominiak", "email": "dominida@lewisu.edu", "dept": "Computer Science", "num_ratings": 16, "overall_rating": "1.9"}
-{"fname": "Thomas", "lname": "Dupre", "email": "dupreth@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Ray", "lname": "Klump", "email": "klumpra@lewisu.edu", "dept": "Computer Science", "num_ratings": 35, "overall_rating": "4.7"}
-{"fname": "Matthew", "lname": "Kwiatkowski", "email": "kwiatkma@lewisu.edu", "dept": "Computer Science", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Yousef", "lname": "Nijim", "email": "ynijim@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Michael", "lname": "Smith", "email": "msmith42@lewisu.edu", "dept": "Mathematics", "num_ratings": 12, "overall_rating": "5.0"}
-{"fname": "Stephen", "lname": "Welsch", "email": "welschst@lewisu.edu", "dept": "Computer Science", "num_ratings": 19, "overall_rating": "5.0"}
-{"fname": "Bo", "lname": "Xu", "email": "xubo@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Imad", "lname": "Al Saeed", "email": "ialsaeed@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Fuad", "lname": "Abu Zahra", "email": "fabuzahra@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Ahmad", "lname": "Awwad", "email": "aawwad1@lewisu.edu", "dept": "Computer Science", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Mahmood", "lname": "Al-khassaweneh", "email": "malkhassaweneh@lewisu.edu", "dept": "Computer Science", "num_ratings": 10, "overall_rating": "4.7"}
-{"fname": "Abdullah", "lname": "Alshboul", "email": "aalshboul@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Matthew", "lname": "Clavelli", "email": "mclavelli@lewisu.edu", "dept": "Computer Science", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Dan", "lname": "Ezenekwe", "email": "dezenekwe@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "En Hsin", "lname": "Huang", "email": "ehuang@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Firas", "lname": "Khasawneh", "email": "khasawfi@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Gina", "lname": "Martinez", "email": "martingi@lewisu.edu", "dept": "Computer Science", "num_ratings": 2, "overall_rating": "2.5"}
-{"fname": "Michael", "lname": "Nowak", "email": "nowakmi@lewisu.edu", "dept": "Computer Science", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Mathias", "lname": "Plass", "email": "plassma@lewisu.edu", "dept": "Computer Science", "num_ratings": 3, "overall_rating": "5.0"}
-{"fname": "Eric", "lname": "Spangler", "email": "spangler@lewisu.edu", "dept": "Computer Science", "num_ratings": 3, "overall_rating": "4.0"}
-{"fname": "Osama \"Sam\"", "lname": "Abuomar", "email": "oabuomar@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Zaid", "lname": "Al Sharif", "email": "zalsharif@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Eric", "lname": "Chou", "email": "echou@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Melissa", "lname": "Eichelberger", "email": "eichelme@lewisu.edu", "dept": "Computer Science", "num_ratings": 6, "overall_rating": "4.9"}
-{"fname": "Cynthia", "lname": "Howard", "email": "howardcy@lewisu.edu", "dept": "Computer Science", "num_ratings": 10, "overall_rating": "4.6"}
-{"fname": "Eric", "lname": "Reynoso", "email": "ereynoso@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Adam", "lname": "Schultze", "email": "aschultze@lewisu.edu", "dept": "Mathematics", "num_ratings": 3, "overall_rating": "5.0"}
-{"fname": "Natalija", "lname": "Glisovic", "email": "nglisovic@lewisu.edu", "dept": "Mathematics", "num_ratings": 3, "overall_rating": "2.7"}
-{"fname": "Leanora", "lname": "Moore", "email": "lmoore12@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "David", "lname": "Nowak", "email": "dnowak2@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Laura", "lname": "Paramo", "email": "lparamo1@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Alejandro", "lname": "Rodriguez", "email": "arodriguez47@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Jayme M.", "lname": "Speva", "email": "spevaja@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Brandon", "lname": "White", "email": "bwhite5@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Manoj", "lname": "Bhat", "email": "bhatma@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Yazan", "lname": "Alsmadi", "email": "yalsmadi@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Yahya", "lname": "Daoud", "email": "ydaoud@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Amanda", "lname": "Harsy Ramsay", "email": "harsyram@lewisu.edu", "dept": "Mathematics", "num_ratings": 9, "overall_rating": "4.3"}
-{"fname": "Margaret", "lname": "Juraco", "email": "juracoma@lewisu.edu", "dept": "Mathematics", "num_ratings": 6, "overall_rating": "1.0"}
-{"fname": "John", "lname": "Kim", "email": "jkim3@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "\"Paul\" Young J.", "lname": "Kim", "email": "kimyo@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Michael J.", "lname": "Lewis", "email": "mlewis8@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Alison", "lname": "Major", "email": "amajor@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Yacine", "lname": "Merdjemak", "email": "ymerdjemak@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Marie", "lname": "Meyer", "email": "mmeyer2@lewisu.edu", "dept": "Mathematics", "num_ratings": 23, "overall_rating": "3.7"}
-{"fname": "Dennis", "lname": "Monbrod", "email": "dmonbrod1@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Safwan", "lname": "Omari", "email": "omarisa@lewisu.edu", "dept": "Computer Science", "num_ratings": 4, "overall_rating": "3.8"}
-{"fname": "Quinn", "lname": "Stratton", "email": "qstratton@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Cara", "lname": "Sulyok", "email": "csulyok@lewisu.edu", "dept": "Mathematics", "num_ratings": 7, "overall_rating": "2.7"}
-{"fname": "Indika", "lname": "Udagedara", "email": "iudagedara@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Vadim", "lname": "Biryukov", "email": "vbiryukov@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Kelly", "lname": "Blaszczyk", "email": "kblaszczyk@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Jason", "lname": "Elsinger", "email": "jelsinger@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Mark", "lname": "Hatchel", "email": "mhatchel@lewisu.edu", "dept": "Computer Science", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Sung", "lname": "Kim", "email": "skim2@lewisu.edu", "dept": "Business", "num_ratings": 3, "overall_rating": "4.7"}
-{"fname": "Daiva", "lname": "Mikunas", "email": "mikunada@lewisu.edu", "dept": "Mathematics", "num_ratings": 4, "overall_rating": "3.1"}
-{"fname": "Sheikh", "lname": "Shamsuddin", "email": "shamsush@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Suzan", "lname": "Sollie", "email": "solliesu@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Amila", "lname": "Sudu Ambegedara", "email": "asuduambegedara@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Wanyu", "lname": "Zang", "email": "wzang@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Jude", "lname": "Adeniji", "email": "jadeniji@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Moussa", "lname": "Ayyash", "email": "mayyash@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Rami", "lname": "Khasawneh", "email": "khasawra@lewisu.edu", "dept": "Business", "num_ratings": 50, "overall_rating": "4.8"}
-{"fname": "John", "lname": "Mikos", "email": "jmikos@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Samer", "lname": "Odeh", "email": "sodeh1@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Eric", "lname": "Pogue", "email": "epogue@lewisu.edu", "dept": "Computer Science", "num_ratings": 13, "overall_rating": "4.4"}
-{"fname": "John", "lname": "Rinderer", "email": "jrinderer@lewisu.edu", "dept": "Computer Science", "num_ratings": 3, "overall_rating": "5.0"}
-{"fname": "Brandon", "lname": "Schabell", "email": "brandonmschabell@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Brittany", "lname": "Stephenson", "email": "bstephenson@lewisu.edu", "dept": "Mathematics", "num_ratings": 11, "overall_rating": "5.0"}
-{"fname": "Kayla", "lname": "Stephenson", "email": "kstephenson3@lewisu.edu", "dept": "Mathematics", "num_ratings": 9, "overall_rating": "4.3"}
-{"fname": "Piotr", "lname": "Szczurek", "email": "szczurpi@lewisu.edu", "dept": "Computer Science", "num_ratings": 34, "overall_rating": "2.0"}
-{"fname": "Fadi", "lname": "Wedyan", "email": "fwedyan@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Khaled", "lname": "Alrfou", "email": "kalrfou@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Shurouq", "lname": "Hmoud", "email": "shmoud@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Heekyung", "lname": "Kim", "email": "hkim3@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Diane", "lname": "Nead", "email": "dnead@lewisu.edu", "dept": "Mathematics", "num_ratings": 5, "overall_rating": "3.4"}
-{"fname": "Jason", "lname": "Perry", "email": "perryjn@lewisu.edu", "dept": "Computer Science", "num_ratings": 9, "overall_rating": "4.4"}
-{"fname": "Michael", "lname": "Roppo", "email": "mroppo@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
-{"fname": "Sean", "lname": "Sullivan", "email": "ssullivan7@lewisu.edu", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Fuad", "lname": "Abu Zahra", "email": "fabuzahra@lewisu.edu", "office": "ALB-110", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Osama \"Sam\"", "lname": "Abuomar", "email": "oabuomar@lewisu.edu", "office": "SU-113", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Jude", "lname": "Adeniji", "email": "jadeniji@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Imad", "lname": "Al Saeed", "email": "ialsaeed@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Zaid", "lname": "Al Sharif", "email": "zalsharif@lewisu.edu", "office": "AS-112-A", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Mahmood", "lname": "Al-khassaweneh", "email": "malkhassaweneh@lewisu.edu", "office": "AS-116-A", "dept": "Computer Science", "num_ratings": 10, "overall_rating": "4.7"}
+{"fname": "Khaled", "lname": "Alrfou", "email": "kalrfou@lewisu.edu", "office": "ALB-112", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Abdullah", "lname": "Alshboul", "email": "aalshboul@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Yazan", "lname": "Alsmadi", "email": "yalsmadi@lewisu.edu", "office": "AS-114-A", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Khaled", "lname": "Alzoubi", "email": "alzoubkh@lewisu.edu", "office": "AS-118-A", "dept": "Computer Science", "num_ratings": 5, "overall_rating": "3.2"}
+{"fname": "Ahmad", "lname": "Awwad", "email": "aawwad1@lewisu.edu", "office": "Adjunct", "dept": "Computer Science", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Moussa", "lname": "Ayyash", "email": "mayyash@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Manoj", "lname": "Bhat", "email": "bhatma@lewisu.edu", "office": "SU-110", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Vadim", "lname": "Biryukov", "email": "vbiryukov@lewisu.edu", "office": "SU-108", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Kelly", "lname": "Blaszczyk", "email": "kblaszczyk@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Jaeik", "lname": "Cho", "email": "jcho1@lewisu.edu", "office": "SU-109", "dept": "Computer Science", "num_ratings": 1, "overall_rating": "5.0"}
+{"fname": "Eric", "lname": "Chou", "email": "echou@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Matthew", "lname": "Clavelli", "email": "mclavelli@lewisu.edu", "office": "SU-105", "dept": "Computer Science", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Yahya", "lname": "Daoud", "email": "ydaoud@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Dana", "lname": "Dominiak", "email": "dominida@lewisu.edu", "office": "AS-053-S", "dept": "Computer Science", "num_ratings": 16, "overall_rating": "1.9"}
+{"fname": "Thomas", "lname": "Dupre", "email": "dupreth@lewisu.edu", "office": "AS-128-A", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Melissa", "lname": "Eichelberger", "email": "eichelme@lewisu.edu", "office": "LR-344B", "dept": "Computer Science", "num_ratings": 6, "overall_rating": "4.9"}
+{"fname": "Jason", "lname": "Elsinger", "email": "jelsinger@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Dan", "lname": "Ezenekwe", "email": "dezenekwe@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Natalija", "lname": "Glisovic", "email": "nglisovic@lewisu.edu", "office": "Adjunct", "dept": "Mathematics", "num_ratings": 3, "overall_rating": "2.7"}
+{"fname": "Amanda", "lname": "Harsy Ramsay", "email": "harsyram@lewisu.edu", "office": "SU-124", "dept": "Mathematics", "num_ratings": 9, "overall_rating": "4.3"}
+{"fname": "Mark", "lname": "Hatchel", "email": "mhatchel@lewisu.edu", "office": "Adjunct", "dept": "Computer Science", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Shurouq", "lname": "Hmoud", "email": "shmoud@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Cynthia", "lname": "Howard", "email": "howardcy@lewisu.edu", "office": "AS-131-L", "dept": "Computer Science", "num_ratings": 10, "overall_rating": "4.6"}
+{"fname": "En Hsin", "lname": "Huang", "email": "ehuang@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Margaret", "lname": "Juraco", "email": "juracoma@lewisu.edu", "office": "Adjunct", "dept": "Mathematics", "num_ratings": 6, "overall_rating": "1.0"}
+{"fname": "Firas", "lname": "Khasawneh", "email": "khasawfi@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Rami", "lname": "Khasawneh", "email": "khasawra@lewisu.edu", "office": "AS-059-S", "dept": "Business", "num_ratings": 50, "overall_rating": "4.8"}
+{"fname": "John", "lname": "Kim", "email": "jkim3@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "\"Paul\" Young J.", "lname": "Kim", "email": "kimyo@lewisu.edu", "office": "AS-110-A", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Sung", "lname": "Kim", "email": "skim2@lewisu.edu", "office": "AS-126-A", "dept": "Business", "num_ratings": 3, "overall_rating": "4.7"}
+{"fname": "Heekyung", "lname": "Kim", "email": "hkim3@lewisu.edu", "office": "AS-111-A", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Ray", "lname": "Klump", "email": "klumpra@lewisu.edu", "office": "SU-105", "dept": "Computer Science", "num_ratings": 35, "overall_rating": "4.7"}
+{"fname": "Matthew", "lname": "Kwiatkowski", "email": "kwiatkma@lewisu.edu", "office": "Adjunct", "dept": "Computer Science", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Michael J.", "lname": "Lewis", "email": "mlewis8@lewisu.edu", "office": "AS-110A-A", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Alison", "lname": "Major", "email": "amajor@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Gina", "lname": "Martinez", "email": "martingi@lewisu.edu", "office": "AS-130-L", "dept": "Computer Science", "num_ratings": 2, "overall_rating": "2.5"}
+{"fname": "Yacine", "lname": "Merdjemak", "email": "ymerdjemak@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Marie", "lname": "Meyer", "email": "mmeyer2@lewisu.edu", "office": "SU-128", "dept": "Mathematics", "num_ratings": 23, "overall_rating": "3.7"}
+{"fname": "John", "lname": "Mikos", "email": "jmikos@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Daiva", "lname": "Mikunas", "email": "mikunada@lewisu.edu", "office": "Adjunct", "dept": "Mathematics", "num_ratings": 4, "overall_rating": "3.1"}
+{"fname": "Dennis", "lname": "Monbrod", "email": "dmonbrod1@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Leanora", "lname": "Moore", "email": "lmoore12@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Diane", "lname": "Nead", "email": "dnead@lewisu.edu", "office": "Adjunct", "dept": "Mathematics", "num_ratings": 5, "overall_rating": "3.4"}
+{"fname": "Yousef", "lname": "Nijim", "email": "ynijim@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Michael", "lname": "Nowak", "email": "nowakmi@lewisu.edu", "office": "Adjunct", "dept": "Computer Science", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "David", "lname": "Nowak", "email": "dnowak2@lewisu.edu", "office": "AS-026-L", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Samer", "lname": "Odeh", "email": "sodeh1@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Safwan", "lname": "Omari", "email": "omarisa@lewisu.edu", "office": "AS-129-L", "dept": "Computer Science", "num_ratings": 4, "overall_rating": "3.8"}
+{"fname": "Laura", "lname": "Paramo", "email": "lparamo1@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Jason", "lname": "Perry", "email": "perryjn@lewisu.edu", "office": "AS-127-L", "dept": "Computer Science", "num_ratings": 9, "overall_rating": "4.4"}
+{"fname": "Mathias", "lname": "Plass", "email": "plassma@lewisu.edu", "office": "AS-125-L", "dept": "Computer Science", "num_ratings": 3, "overall_rating": "5.0"}
+{"fname": "Eric", "lname": "Pogue", "email": "epogue@lewisu.edu", "office": "AS-124-A", "dept": "Computer Science", "num_ratings": 13, "overall_rating": "4.4"}
+{"fname": "Eric", "lname": "Reynoso", "email": "ereynoso@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "John", "lname": "Rinderer", "email": "jrinderer@lewisu.edu", "office": "Adjunct", "dept": "Computer Science", "num_ratings": 3, "overall_rating": "5.0"}
+{"fname": "Alejandro", "lname": "Rodriguez", "email": "arodriguez47@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Michael", "lname": "Roppo", "email": "mroppo@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Brandon", "lname": "Schabell", "email": "brandonmschabell@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Adam", "lname": "Schultze", "email": "aschultze@lewisu.edu", "office": "SU-130", "dept": "Mathematics", "num_ratings": 3, "overall_rating": "5.0"}
+{"fname": "Sheikh", "lname": "Shamsuddin", "email": "shamsush@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Michael", "lname": "Smith", "email": "msmith42@lewisu.edu", "office": "SU-122", "dept": "Mathematics", "num_ratings": 12, "overall_rating": "5.0"}
+{"fname": "Suzan", "lname": "Sollie", "email": "solliesu@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Eric", "lname": "Spangler", "email": "spangler@lewisu.edu", "office": "AS-120-A", "dept": "Computer Science", "num_ratings": 3, "overall_rating": "4.0"}
+{"fname": "Jayme M.", "lname": "Speva", "email": "spevaja@lewisu.edu", "office": "AS-032-L", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Brittany", "lname": "Stephenson", "email": "bstephenson@lewisu.edu", "office": "SU-126", "dept": "Mathematics", "num_ratings": 11, "overall_rating": "5.0"}
+{"fname": "Kayla", "lname": "Stephenson", "email": "kstephenson3@lewisu.edu", "office": "Adjunct", "dept": "Mathematics", "num_ratings": 9, "overall_rating": "4.3"}
+{"fname": "Quinn", "lname": "Stratton", "email": "qstratton@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Amila", "lname": "Sudu Ambegedara", "email": "asuduambegedara@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Sean", "lname": "Sullivan", "email": "ssullivan7@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Cara", "lname": "Sulyok", "email": "csulyok@lewisu.edu", "office": "SU-125", "dept": "Mathematics", "num_ratings": 7, "overall_rating": "2.7"}
+{"fname": "Piotr", "lname": "Szczurek", "email": "szczurpi@lewisu.edu", "office": "SU-111", "dept": "Computer Science", "num_ratings": 34, "overall_rating": "2.0"}
+{"fname": "Indika", "lname": "Udagedara", "email": "iudagedara@lewisu.edu", "office": "SU-116", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Fadi", "lname": "Wedyan", "email": "fwedyan@lewisu.edu", "office": "AS-122-A", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Stephen", "lname": "Welsch", "email": "welschst@lewisu.edu", "office": "Adjunct", "dept": "Computer Science", "num_ratings": 19, "overall_rating": "5.0"}
+{"fname": "Brandon", "lname": "White", "email": "bwhite5@lewisu.edu", "office": "Adjunct", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Bo", "lname": "Xu", "email": "xubo@lewisu.edu", "office": "SU-105", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
+{"fname": "Wanyu", "lname": "Zang", "email": "wzang@lewisu.edu", "office": "AS-029L", "dept": "N/A", "num_ratings": 0, "overall_rating": "N/A"}
