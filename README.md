@@ -48,7 +48,7 @@ python3 main.py --beautify -i data/input.json
 python3 main.py --upload_to_collection Professors -i input.json
 
 # Database defaults to "EcamsDB", but you can also use --dbname to change that:
-python3 main.py --dbname NewDB --upload_to_collection CollectionName -i input.json
+python3 main.py --dbname NewDB -u Professors -i input.json
 ```
 
 
