@@ -39,7 +39,7 @@ def upload_to_mongodb(db_name:str, collection_name:str, file:str):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='TEST DESCRIPTION')
+    parser = argparse.ArgumentParser()
 
     parser.add_argument('-i', '--input', type=str, required=True, help='Path to input file.')
     parser.add_argument('-o', '--output', type=str, help='Path for output file.')
