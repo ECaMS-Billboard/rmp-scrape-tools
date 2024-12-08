@@ -7,9 +7,6 @@ def array_to_jsonl(input_file, output_file=None):
     input_file will be overwritten if a name is not provided for a new output_file.
     """
 
-    if output_file is None:
-        output_file = input_file
-
     with open(input_file, "r") as file:
         data = json.load(file)
 
@@ -26,9 +23,6 @@ def jsonl_to_array(input_file, output_file=None):
     Convert a JSONL file to a JSON array file.
     input_file will be overwritten if a name is not provided for a new output_file.
     """
-
-    if output_file is None:
-        output_file = input_file
 
     json_list = []
     with open(input_file, 'r') as file:
@@ -52,9 +46,6 @@ def beautify_json(input_file, output_file=None, indent=4):
 
     with open(input_file, 'r') as file:
         data = json.load(file)
-
-    if output_file is None:
-        output_file = input_file
 
     with open(output_file, 'w') as file:
         json.dump(data, file, indent=indent, sort_keys=True)
