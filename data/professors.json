@@ -6,7 +6,7 @@
         "office": "ALB-110",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Osama \"Sam\"",
@@ -15,7 +15,7 @@
         "office": "SU-113",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Jude",
@@ -24,7 +24,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Imad",
@@ -33,7 +33,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Zaid",
@@ -42,7 +42,7 @@
         "office": "AS-112-A",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Mahmood",
@@ -60,7 +60,7 @@
         "office": "ALB-112",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Abdullah",
@@ -69,7 +69,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Yazan",
@@ -78,7 +78,7 @@
         "office": "AS-114-A",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Khaled",
@@ -96,7 +96,7 @@
         "office": "Adjunct",
         "dept": "Computer Science",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Moussa",
@@ -105,7 +105,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Manoj",
@@ -114,7 +114,7 @@
         "office": "SU-110",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Vadim",
@@ -123,7 +123,7 @@
         "office": "SU-108",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Kelly",
@@ -132,7 +132,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Jaeik",
@@ -150,7 +150,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Matthew",
@@ -159,7 +159,7 @@
         "office": "SU-105",
         "dept": "Computer Science",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Yahya",
@@ -168,7 +168,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Dana",
@@ -186,7 +186,7 @@
         "office": "AS-128-A",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Melissa",
@@ -204,7 +204,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Dan",
@@ -213,7 +213,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Natalija",
@@ -240,7 +240,7 @@
         "office": "Adjunct",
         "dept": "Computer Science",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Shurouq",
@@ -249,7 +249,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Cynthia",
@@ -267,7 +267,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Margaret",
@@ -285,7 +285,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Rami",
@@ -303,7 +303,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "\"Paul\" Young J.",
@@ -312,7 +312,7 @@
         "office": "AS-110-A",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Sung",
@@ -330,7 +330,7 @@
         "office": "AS-111-A",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Ray",
@@ -348,7 +348,7 @@
         "office": "Adjunct",
         "dept": "Computer Science",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Michael J.",
@@ -357,7 +357,7 @@
         "office": "AS-110A-A",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Alison",
@@ -366,7 +366,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Gina",
@@ -384,7 +384,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Marie",
@@ -402,7 +402,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Daiva",
@@ -420,7 +420,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Leanora",
@@ -429,7 +429,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Diane",
@@ -447,7 +447,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Michael",
@@ -456,7 +456,7 @@
         "office": "Adjunct",
         "dept": "Computer Science",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "David",
@@ -465,7 +465,7 @@
         "office": "AS-026-L",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Samer",
@@ -474,7 +474,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Safwan",
@@ -492,7 +492,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Jason",
@@ -528,7 +528,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "John",
@@ -546,7 +546,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Michael",
@@ -555,7 +555,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Brandon",
@@ -564,7 +564,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Adam",
@@ -582,7 +582,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Michael",
@@ -600,7 +600,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Eric",
@@ -618,7 +618,7 @@
         "office": "AS-032-L",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Brittany",
@@ -645,7 +645,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Amila",
@@ -654,7 +654,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Sean",
@@ -663,7 +663,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Cara",
@@ -690,7 +690,7 @@
         "office": "SU-116",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Fadi",
@@ -699,7 +699,7 @@
         "office": "AS-122-A",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Stephen",
@@ -717,7 +717,7 @@
         "office": "Adjunct",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Bo",
@@ -726,7 +726,7 @@
         "office": "SU-105",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     },
     {
         "fname": "Wanyu",
@@ -735,6 +735,6 @@
         "office": "AS-029L",
         "dept": "N/A",
         "num_ratings": 0,
-        "overall_rating": "N/A"
+        "overall_rating": 0
     }
 ]
